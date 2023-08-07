@@ -22,7 +22,7 @@ It shows clearly what we know, that it gets hotter the nearer one gets to the eq
 
 ![s_wind_7-22-2023](https://github.com/joannadelaune/python-api-challenge/assets/102549713/41b07585-f1f3-4d17-a3d5-25580e44efda)
 
-In fact, temperature was the only factor for which a relationship strong enough to be remarked upon exists.
+In fact, temperature was the only factor for which we found a relationship strong enough to be remarked upon.
 
 ## Part 2 - A Place to Stay
 The [second part](VacationPy.ipynb) of the challenge loads the weather data produced in Part 1 into a DataFrame and creates a map that shows a point for each city, with the size of each point corresponding to the humidity in that city.
