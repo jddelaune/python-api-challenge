@@ -1,9 +1,11 @@
-# Getting Out of the USA -- A Python API Project
+# Getting Out of the USA -- A Python API Project with MatPlotLib Visualizations
 _"Do you need anything from Duty Free?
 I gotta get out of the U.S.A"
  -- Ike Reilly_
  
 This is a two-part project which uses Python to query the OpenWeatherMap and GeoApify APIs to (1) find weather conditions in a number of randomly selected cities around the world and (2) select vacation destinations.
+
+Data visualizations have been created using Matplotlib.
 
 ## Part 1 - Stormy Weather?
 In the [first part](WeatherPy.ipynb), we select a set of coordinates randomly and find the nearest city to each latitude and logitude pair, discarding duplicate cities. Using [OpenWeatherMap API](https://openweathermap.org/api), we retrieve weather data from each of these cities and load it into a pandas DataFrame.
