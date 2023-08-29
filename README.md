@@ -1,4 +1,5 @@
 # Getting Out of the USA -- A Python API Project with MatPlotLib Visualizations
+## Joanna DeLaune
 _"Do you need anything from Duty Free?
 I gotta get out of the U.S.A"
  -- Ike Reilly_
